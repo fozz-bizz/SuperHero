@@ -1,3 +1,9 @@
+# Screenshots
+
+![1](https://github.com/user-attachments/assets/c8b74402-bc6b-479e-b0bf-c302648fe411)
+![2](https://github.com/user-attachments/assets/f741187e-6e3d-4833-8628-280361a0dc91)
+
+
 # Requirements
 
 ### Objective:
